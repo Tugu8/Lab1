@@ -1,0 +1,4 @@
+#Wed Jan 28 15:56:41 ULAT 2026
+configuration*?=1F511D60530E292D7F93C39C2A621E2290DDDA97
+module-resource*?\:checkstyle-suppressions.xml=CEEA8047AB9D671A8498791FF5A9B4803DC2514E
+module-resource*?\:checkstyle-xpath-suppressions.xml=8CC7540C17EA03F3E49AF18FD9D94116952D6849
